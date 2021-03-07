@@ -2,4 +2,4 @@
 
 유튜브에서 다니자TV 채널을 운영하고 있습니다
 
-https://www.youtube.com/channel/UC3cJ1SEDwLZXVTqXJ1ctnbQ
+[유튜브 채널 다니자TV](https://www.youtube.com/channel/UC3cJ1SEDwLZXVTqXJ1ctnbQ)
