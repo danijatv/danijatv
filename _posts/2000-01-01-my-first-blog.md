@@ -1,10 +1,10 @@
 ---
 layout: "default"
-title:  "2021-03-12-dd"
+title:  "2000-01-01-my-first-blog"
 author: DaNiJaTV
 # category : aaa
-categorys: aaa bbb
+# categorys: aaa bbb
 ---
 
 test   
-2021-03-12-dd     
+2000-01-01-my-first-blog  
