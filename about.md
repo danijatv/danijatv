@@ -4,4 +4,5 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+DaNiJaTV 입니다  
+고맙습니다  
